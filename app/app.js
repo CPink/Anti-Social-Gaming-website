@@ -14,7 +14,7 @@
                url: '/',
                controller: 'HomeController',
                controlleras: 'homeCtrl',
-               templateurl: '/app/components/home/home.html'
+               templateUrl: '/app/components/home/home.html'
            })
            
            $urlRouterProvider.otherwise('/');
