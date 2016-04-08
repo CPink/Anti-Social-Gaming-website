@@ -1,0 +1,28 @@
+{
+  "name": "Anti-Social-Gaming-website",
+  "homepage": "https://github.com/CPink/Anti-Social-Gaming-website",
+  "authors": [
+    "CPink <cepinkerton.85@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.3",
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.3",
+    "angular-ui-router": "^0.2.18",
+    "bootstrap-material-design": "^0.5.9"
+  },
+  "resolutions": {
+    "jquery": "^2.2.3"
+  }
+}
